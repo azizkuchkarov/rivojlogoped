@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1772868778098",
+    "name": "Radjabova Nargiza",
+    "role": "",
+    "bio": "Instruktor",
+    "order": 1,
+    "telegramId": "998946609193",
+    "sharePercent": 50,
+    "directionIds": [
+      "2"
+    ]
+  },
+  {
+    "id": "1772870501261",
+    "name": "Nargiza Abubakirovna",
+    "role": "",
+    "bio": "",
+    "order": 1,
+    "telegramId": "94660",
+    "sharePercent": 50,
+    "directionIds": [
+      "3"
+    ]
+  }
+]

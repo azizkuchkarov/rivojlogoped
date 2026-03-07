@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "directionId": "1",
+    "name": "Kognitiv dars",
+    "order": 0
+  },
+  {
+    "id": "2",
+    "directionId": "2",
+    "name": "Talaffuz",
+    "order": 0
+  },
+  {
+    "id": "3",
+    "directionId": "3",
+    "name": "Sensor integratsiya — 1-dars",
+    "order": 0
+  },
+  {
+    "id": "4",
+    "directionId": "2",
+    "name": "Til bilan ishlash",
+    "order": 1
+  },
+  {
+    "id": "5",
+    "directionId": "1",
+    "name": "2-dars",
+    "order": 1
+  },
+  {
+    "id": "6",
+    "directionId": "2",
+    "name": "2-dars",
+    "order": 2
+  },
+  {
+    "id": "7",
+    "directionId": "1",
+    "name": "3-dars",
+    "order": 2
+  },
+  {
+    "id": "8",
+    "directionId": "2",
+    "name": "Diagnostika",
+    "order": 3
+  },
+  {
+    "id": "9",
+    "directionId": "3",
+    "name": "Diagnostika",
+    "order": 1
+  },
+  {
+    "id": "10",
+    "directionId": "7",
+    "name": "Intensiv dars 1",
+    "order": 0
+  },
+  {
+    "id": "11",
+    "directionId": "6",
+    "name": "Kulolchilik",
+    "order": 0
+  },
+  {
+    "id": "12",
+    "directionId": "6",
+    "name": "Rasm",
+    "order": 1
+  }
+]

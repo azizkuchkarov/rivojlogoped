@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Rivoj markazi yangi mavsumni ochdi",
+    "slug": "rivoj-yangi-mavsum",
+    "excerpt": "Logoped, ABA va sensor integratsiya boʻyicha yangi guruhlar qabul qilindi.",
+    "content": "Hurmatli ota-onalar! Rivoj markazi yangi mavsumda bolalar uchun maxsus dasturlar bilan ish olib boradi. Logopediya, ABA terapiya va sensor integratsiya boʻyicha mutaxassislarimiz yordam beradi.",
+    "date": "2025-03-01",
+    "published": true,
+    "createdAt": "2025-03-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Sensor integratsiya — nima va kimga kerak?",
+    "slug": "sensor-integratsiya",
+    "excerpt": "Sensor integratsiya terapiyasi bolalar rivojlanishida qanday rol oʻynaydi.",
+    "content": "Sensor integratsiya — bu bolaning sezgi tizimlarini (koʻrish, eshitish, tez-tez his qilish va boshqalar) uygʻun ishlashiga yordam beradigan terapiya. Bu usul ehtiyojli bolalar uchun juda samarali.",
+    "date": "2025-02-15",
+    "published": true,
+    "createdAt": "2025-02-15T09:00:00Z"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Defektolog",
+    "order": 0
+  },
+  {
+    "id": "2",
+    "name": "Logoped",
+    "order": 1
+  },
+  {
+    "id": "3",
+    "name": "Sensor integratsiya",
+    "order": 2
+  },
+  {
+    "id": "4",
+    "name": "Neyropsixolog",
+    "order": 3
+  },
+  {
+    "id": "5",
+    "name": "Bolalar psixologi",
+    "order": 4
+  },
+  {
+    "id": "6",
+    "name": "ART terapiya — kulolchilik, rasm",
+    "order": 5
+  },
+  {
+    "id": "7",
+    "name": "Intensiv darslar — ZPRR, RAS bolalar uchun",
+    "order": 6
+  },
+  {
+    "id": "8",
+    "name": "Erta rivojlantirish — 2-4 yoshdagi bolalarga",
+    "order": 7
+  },
+  {
+    "id": "9",
+    "name": "Inklyuziv maktabga tayyorlov — tashxisli bolalarga",
+    "order": 8
+  },
+  {
+    "id": "10",
+    "name": "Logopedik maktabga tayyorlov — rus va oʻzbek tilida (nutq, diqqat, xotira, motorika)",
+    "order": 9
+  },
+  {
+    "id": "11",
+    "name": "Hunar taʼlimi — imkoniyati cheklangan, alohida taʼlimga ehtiyoji bor bolalar uchun",
+    "order": 10
+  }
+]

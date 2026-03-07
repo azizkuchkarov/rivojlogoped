@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1772867412183",
+    "date": "2026-03-07",
+    "time": "09:00",
+    "instructorId": "1",
+    "childId": "1772862901295",
+    "directionId": "1",
+    "lessonId": "1",
+    "price": 100000,
+    "status": "scheduled"
+  },
+  {
+    "id": "1772867448354",
+    "date": "2026-03-07",
+    "time": "19:00",
+    "instructorId": "1",
+    "childId": "1772862901295",
+    "directionId": "1",
+    "lessonId": "1",
+    "price": 100000,
+    "status": "scheduled"
+  },
+  {
+    "id": "1772869609543",
+    "date": "2026-03-07",
+    "time": "09:00",
+    "instructorId": "1772868778098",
+    "childId": "1772862901295",
+    "directionId": "1",
+    "lessonId": "1",
+    "price": 100000,
+    "status": "completed",
+    "completedTotalSum": 100000,
+    "completedInstructorShare": 50000,
+    "completedAt": "2026-03-07T07:48:49.099Z"
+  },
+  {
+    "id": "1772870546272",
+    "date": "2026-03-07",
+    "time": "09:00",
+    "instructorId": "1772870501261",
+    "childId": "1772862901295",
+    "directionId": "3",
+    "lessonId": "3",
+    "price": 90000,
+    "status": "completed",
+    "completedTotalSum": 90000,
+    "completedInstructorShare": 45000,
+    "completedAt": "2026-03-07T08:02:36.997Z"
+  }
+]

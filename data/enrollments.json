@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1772862924802",
+    "childId": "1772862901295",
+    "directionId": "1",
+    "lessonId": "1",
+    "instructorId": "1",
+    "pricePerSession": 100000,
+    "createdAt": "2026-03-07T05:55:24.802Z"
+  },
+  {
+    "id": "1772864205197",
+    "childId": "1772862901295",
+    "directionId": "2",
+    "lessonId": "2",
+    "instructorId": "1",
+    "pricePerSession": 100000,
+    "createdAt": "2026-03-07T06:16:45.197Z"
+  },
+  {
+    "id": "1772869520543",
+    "childId": "1772862901295",
+    "directionId": "1",
+    "lessonId": "1",
+    "instructorId": "1772868778098",
+    "pricePerSession": 100000,
+    "createdAt": "2026-03-07T07:45:20.543Z"
+  },
+  {
+    "id": "1772870533201",
+    "childId": "1772862901295",
+    "directionId": "3",
+    "lessonId": "3",
+    "instructorId": "1772870501261",
+    "pricePerSession": 90000,
+    "createdAt": "2026-03-07T08:02:13.201Z"
+  }
+]
