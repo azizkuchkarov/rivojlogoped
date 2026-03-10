@@ -34,5 +34,14 @@
     "instructorId": "1772870501261",
     "pricePerSession": 90000,
     "createdAt": "2026-03-07T08:02:13.201Z"
+  },
+  {
+    "id": "1772874241163",
+    "childId": "1772863037756",
+    "directionId": "3",
+    "lessonId": "3",
+    "instructorId": "1772870501261",
+    "pricePerSession": 100000,
+    "createdAt": "2026-03-07T09:04:01.163Z"
   }
 ]

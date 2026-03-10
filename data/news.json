@@ -18,5 +18,15 @@
     "date": "2025-02-15",
     "published": true,
     "createdAt": "2025-02-15T09:00:00Z"
+  },
+  {
+    "id": "1772874599785",
+    "title": "Yangi web address",
+    "slug": "yangi-web-address",
+    "excerpt": "Rivoj Logoped uz ish uslubini uzgartirmoqda",
+    "content": "Bizga qushiling va yangiliklardan bohabar buling",
+    "date": "2026-03-07",
+    "published": true,
+    "createdAt": "2026-03-07T09:09:59.785Z"
   }
 ]

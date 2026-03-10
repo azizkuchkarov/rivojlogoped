@@ -13,7 +13,7 @@ export default function Contact() {
         </div>
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           <a
-            href="tel:+998901234567"
+            href="tel:+998 77 417 44 42"
             className="flex items-center gap-4 p-6 rounded-2xl border border-stone-200 bg-stone-50 hover:border-primary-300 hover:bg-primary-50/50 transition group"
           >
             <div className="w-14 h-14 rounded-xl bg-primary-100 flex items-center justify-center group-hover:bg-primary-200 transition">
@@ -23,7 +23,7 @@ export default function Contact() {
             </div>
             <div>
               <p className="font-semibold text-stone-900">Telefon</p>
-              <p className="text-primary-600 font-medium">+998 90 123 45 67</p>
+              <p className="text-primary-600 font-medium">+998 77 417 44 42</p>
             </div>
           </a>
           <a

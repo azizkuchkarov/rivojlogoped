@@ -48,5 +48,30 @@
     "completedTotalSum": 90000,
     "completedInstructorShare": 45000,
     "completedAt": "2026-03-07T08:02:36.997Z"
+  },
+  {
+    "id": "1772874260491",
+    "date": "2026-03-07",
+    "time": "09:00",
+    "instructorId": "1772870501261",
+    "childId": "1772863037756",
+    "directionId": "3",
+    "lessonId": "3",
+    "price": 100000,
+    "status": "scheduled"
+  },
+  {
+    "id": "1772874304421",
+    "date": "2026-03-07",
+    "time": "08:00",
+    "instructorId": "1772870501261",
+    "childId": "1772863037756",
+    "directionId": "3",
+    "lessonId": "3",
+    "price": 100000,
+    "status": "completed",
+    "completedTotalSum": 100000,
+    "completedInstructorShare": 50000,
+    "completedAt": "2026-03-07T09:05:13.061Z"
   }
 ]

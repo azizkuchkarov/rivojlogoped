@@ -33,12 +33,12 @@ export default async function MainInstructorSection() {
             </div>
           </div>
           <div className="order-1 lg:order-2 flex justify-center">
-            <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-2xl overflow-hidden bg-primary-100 shadow-xl">
+            <div className="relative w-56 sm:w-64 md:w-72 aspect-[3/4] rounded-2xl overflow-hidden bg-primary-100 shadow-xl">
               {instructor.image ? (
                 <img
                   src={instructor.image}
                   alt={instructor.name}
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-center"
                 />
               ) : (
                 <div className="w-full h-full flex items-center justify-center text-primary-300">
